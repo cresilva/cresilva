@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Devz
+- 🌱 I’m currently learning .NET MAUI
+
+![ithub stats](https://github-readme-stats.vercel.app/api?username=cresilva&show_icons=true)
