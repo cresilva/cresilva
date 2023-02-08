@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Devz
-- 🌱 I’m currently learning .NET MAUI
+- 🌱 I’m currently learning .NET MAUI and Flutter
 
 ![ithub stats](https://github-readme-stats.vercel.app/api?username=cresilva&show_icons=true)
