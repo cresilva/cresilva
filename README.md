@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Devz
-- 🌱 I’m currently learning .NET MAUI and Flutter
+- 🔭 I’m currently working on Devz projects
+- 🌱 I’m currently learning Go and Flutter
 
 ![ithub stats](https://github-readme-stats.vercel.app/api?username=cresilva&show_icons=true)
